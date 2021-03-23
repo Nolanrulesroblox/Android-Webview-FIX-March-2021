@@ -22,6 +22,7 @@ Step 3. Search "Google Chrome" and Press it
 This will log you out of EVERYTHING inside the Browser (Google chrome). This includes: Cookies, Web History, Stored Passwords, Hosted App data (Such as PWAs)
 
 <h2>Make a Backup Before doing this If you dont know what your doing.</h2>
+
 ```
 Step 4. Press "Uninstall" or it may show as "Disable"
 Step 5. Restart your phone. Test any App that was Broken Before.

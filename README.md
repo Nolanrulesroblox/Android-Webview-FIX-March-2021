@@ -1,4 +1,4 @@
-# Andriod-Webview-FIX
+# Android-Webview-FIX
 ### Due to many people having a Issue on how to fix it, I made a list of Ways you can fix it.
 ---
 
@@ -6,7 +6,7 @@
 ```
 Step 1. Pull down to where you see your notification bar.
 Step 2. Press the Gear Icon (should open up a new window)
-Step 3. Search "Andriod System Webview" and Press it
+Step 3. Search "Android System Webview" and Press it
 Step 4. Press "Uninstall" or it may show as "Disable"*
 *if it is Greyed out, check Option #2
 Step 5. Restart your phone. Test any App that was Broken Before.
@@ -21,7 +21,7 @@ Step 3. Search "Google Chrome" and Press it
 <h1>*** NOTICE***</h1> \
 This will log you out of EVERYTHING inside the Browser (Google chrome). This includes: Cookies, Web History, Stored Passwords, Hosted App data (Such as PWAs)
 
-<h2>Make a Backup Before doing this If you dont know what your doing.</h2>
+<h2>Make a Backup Before doing this If you don't know what you're doing.</h2>
 
 ```
 Step 4. Press "Uninstall" or it may show as "Disable"
@@ -37,6 +37,8 @@ express or implied about the completeness, accuracy, reliability, suitability or
 products, services or related graphics contained on the website for any purpose. Any reliance you place on such material is therefore strictly at your own risk.
 ```
 
-this document is provided under the MIT license.
+This document is provided under the MIT license.
 
 If any more Updates come along, I will Update this page.
+
+

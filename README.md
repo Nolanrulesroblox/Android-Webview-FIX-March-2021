@@ -18,14 +18,10 @@ Step 1. Pull down to where you see your notification bar.
 Step 2. Press the Gear Icon (should open up a new window)
 Step 3. Search "Google Chrome" and Press it
 ```
----
 <h1>*** NOTICE***</h1> \
 This will log you out of EVERYTHING inside the Browser (Google chrome). This includes: Cookies, Web History, Stored Passwords, Hosted App data (Such as PWAs)
 
 <h2>Make a Backup Before doing this If you dont know what your doing.</h2>
-
----
-
 ```
 Step 4. Press "Uninstall" or it may show as "Disable"
 Step 5. Restart your phone. Test any App that was Broken Before.
@@ -41,3 +37,5 @@ products, services or related graphics contained on the website for any purpose.
 ```
 
 this document is provided under the MIT license.
+
+If any more Updates come along, I will Update this page.
